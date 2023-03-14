@@ -3,18 +3,15 @@ Hi there 👋 my name is João Flores Carlos <br>
 (All of my projects are from the lessons) <br>
 ✅Programming logic <br>
 ✅HTML <br>
-✅CSS3 (Projects: Anna Bella (Model personal basic blog) / TecBlog (Tech basic blog) / Notícias da Cidade (News portal) / Chalé Hotel (Advertising page) / Museu Nacional <br>
+✅CSS3 (Projects: Anna Bella (Model personal basic blog) / TecBlog (Tech basic blog) / Notícias da Cidade (News portal) / Chalé Hotel (Advertising page) / Museu Nacional (National Museum) <br>
 ✅Bootstrap 4 Framework & Responsive Design (Projects: Finans (Finances website) / Spotify (Clone of the front page) <br>
-⚙ Learning Javascript <br>
+✅Javascript <br>
 ⚙ Learning Python 3 <br>
-🔭 I’m not working yet #opentowork and 🤔 I’m looking for help to getting a job (for experience or not) <br>
 👯 I’m looking to collaborate on any project or job, that way i can practice more 🚀 <br>
-
-⚡ Fun fact: I like games 🤣 <br>
 
 📫 How to reach me: <br>
 E-mail: joaoflorescarlos@gmail.com <br>
-Phone: +55 55 99148-1642 <br>
+Phone: +55 55 9 9265-9999 <br>
 Linkedin: https://www.linkedin.com/in/joão-flores-carlos-192321170/
 
 <!--
